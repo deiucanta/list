@@ -928,6 +928,11 @@ pol.dz
 soc.dz
 tm.dz
 
+// Easypanel : https://easypanel.io
+// Submitted by Andrei Canta <andrei@easypanel.io>
+easypanel.host
+easypanel.app
+
 // ec : http://www.nic.ec/reg/paso1.asp
 // Submitted by registry <vabboud@nic.ec>
 ec
